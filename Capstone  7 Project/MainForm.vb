@@ -7,12 +7,12 @@ Public Class frmMain
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles picWheelOfFortune.Click
         Dim x As Integer
         If x = -13 To 712 Then 
-
+             
 
 
         If picArrow.Location = (4, 712) Then
 
-        End If
+            End If
 
     End Sub
 
